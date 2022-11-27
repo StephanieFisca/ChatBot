@@ -1,5 +1,4 @@
 # ChatBot
-This is a Chatbot i made using Python as a company project.
 The chatbot utilises the microphone to take the users input, otherwise known as the speech recognition. Afterwards, the text-to-speech library's fucntions are used in order to decypher the users speech into words.
 
 The bot is named Bella, and she is able to execute multiple commands, such as:
